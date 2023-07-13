@@ -1,17 +1,1 @@
-# autoecoleapp
-
-A new Flutter project.
-
-## Getting Started
-
-a flutter application for learning the Traffic Laws 
-all the main code of the app is in the lib folder
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The "RoadRules" app incorporates a straightforward and engaging quiz feature to reinforce your understanding of traffic laws. These bite-sized quizzes consist of basic but crucial questions designed to test your knowledge and recall of traffic rules and regulations. Whether you're a new driver learning the rules of the road for the first time, or an experienced motorist looking for a quick refresher, our quiz feature makes learning interactive and fun!
